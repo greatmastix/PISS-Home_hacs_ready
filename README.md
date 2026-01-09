@@ -18,7 +18,7 @@ That means:
 - I didn’t hand-craft every line like a Victorian watchmaker
 - I’m not emotionally invested in edge cases
 - I’m not interested in arguments about “AI code quality”
-- I am **especially** not interested in being @’d, pinged, tagged, or summoned about it
+- I am **especially** not interested in being @’d, pinged, tagged, or summoned about it (open an issue about it and i'll turn your night stand drawer into a piss drawer)
 
 If you don’t like AI-generated projects:
 - Close the tab
