@@ -2,10 +2,10 @@
   "domain": "piss_at_home",
   "name": "PISS@Home",
   "version": "0.2.0",
-  "documentation": "https://github.com/YOU/piss-at-home",
-  "issue_tracker": "https://github.com/YOU/piss-at-home/issues",
+  "documentation": "https://github.com/greatmastix/PISS-Home_hacs_ready",
+  "issue_tracker": "https://github.com/greatmastix/PISS-Home_hacs_ready/issues",
   "codeowners": [
-    "@YOU"
+    "@greatmastix"
   ],
   "requirements": [
     "lightstreamer-client-lib==1.0.1"
