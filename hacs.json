@@ -1,7 +1,6 @@
 {
   "name": "PISS@Home",
   "content_in_root": false,
-  "zip_release": true,
-  "filename": "piss_at_home.zip",
   "render_readme": true
 }
+
